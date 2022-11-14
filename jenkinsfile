@@ -3,7 +3,7 @@ pipeline{
     stages{
       stage('Git Checkout'){
          steps{
-         
+         https://github.com/eswarpulakanti/sonarqube-1/edit/master/jenkinsfile
          }
        }
    }
